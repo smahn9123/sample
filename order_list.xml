@@ -3,11 +3,11 @@
     <HEADER>
         <SEND_COMPAYNY_ID>blankhsj</SEND_COMPAYNY_ID>
         <SEND_AUTH_KEY>5HdyN849NxdduZF8Wb9TGPJJ2Hr7JZyKVGN</SEND_AUTH_KEY>
-        <SEND_DATE>20240111</SEND_DATE>
+        <SEND_DATE>20240222</SEND_DATE>
     </HEADER>
     <DATA>
-        <ORD_ST_DATE>20240110</ORD_ST_DATE>
-        <ORD_ED_DATE>20240110</ORD_ED_DATE>
+        <ORD_ST_DATE>20240221</ORD_ST_DATE>
+        <ORD_ED_DATE>20240221</ORD_ED_DATE>
         <ORD_FIELD><![CDATA[idx|order_id|mall_id|product_name|sku_value|p_product_name]]><</ORD_FIELD>
     </DATA>
 </SABANG_ORDER_LIST>
